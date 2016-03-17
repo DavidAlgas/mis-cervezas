@@ -1,0 +1,27 @@
+{
+  "name": "david-cervezas",
+  "version": "1.0.0",
+  "description": "librerias para consultar cervezas",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidAlgas/mis-cervezas.git"
+  },
+  "keywords": [
+    "cerveza",
+    "cervezas",
+    "birra"
+  ],
+  "author": "david <david@david.com> (http://david.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidAlgas/mis-cervezas/issues"
+  },
+  "homepage": "https://github.com/DavidAlgas/mis-cervezas#readme",
+  "dependencies": {
+    "unique-random-array": "^1.0.0"
+  }
+}
